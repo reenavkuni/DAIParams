@@ -1,0 +1,18 @@
+﻿{
+    EPVersionNumber = 202304140932;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "t$CiP'0\\#d[0:]iy";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenkuni/Documents/EggplantDAI/helper1.suite";
+        },
+                {
+            filePath = "/Users/reenkuni/Documents/EggplantDAI/helper2.suite";
+        }
+    );
+}
